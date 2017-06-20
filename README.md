@@ -1,4 +1,5 @@
 # README
+# "Hello World!" This is the first exercise
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
